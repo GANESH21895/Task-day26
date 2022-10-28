@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-netlify link: https://app.netlify.com/sites/taskday21-dashboardusingcrud/settings/general
+netlify link: https://app.netlify.com/sites/taskday21-dashboardusingcrud/overview
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
